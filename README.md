@@ -13,8 +13,8 @@ I'm currently open for a new job opportunity, this is <a href="#">my resume</a>.
 <h2 align="center">🌐 Socials</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jefferson-ventura"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jeffersonsilvamuz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <h2 align="center">💻 Skills</h2>
