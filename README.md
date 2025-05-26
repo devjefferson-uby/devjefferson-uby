@@ -7,7 +7,7 @@
 <p align="center">
 A Back-end developer enthusiast who loves playing games in his spare time.<br/>
 Graduated in <b>Systems Analysis and Development</b> by UNIFOB.<br/>
-I'm currently open for a new job opportunity, this is <a href="#">my resume</a>.
+I'm currently open for a new job opportunity, this is <a href="https://read.cv/jeffersonventura">my resume</a>.
 </p>
 
 <h2 align="center">🌐 Socials</h2>
